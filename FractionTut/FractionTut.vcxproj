@@ -13,6 +13,9 @@
   <ItemGroup>
     <ClInclude Include="FRACTION.h" />
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="FRAC.cpp" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{EEBCB2AE-DA23-4224-B912-27FC2418BE9E}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
